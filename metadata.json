@@ -1,0 +1,7 @@
+{
+  "name": "Banana Studio: YouTube AI Director",
+  "description": "A comprehensive AI-powered studio for YouTube creators. Generate visual storyboards from scripts, create independent AI images (Nano Banana), edit uploaded photos, and transform any image into cinematic video clips using Veo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
